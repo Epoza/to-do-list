@@ -10,8 +10,8 @@ body{
     height: 100vh;
     background: linear-gradient(
         135deg,
-        #8052ec,
-        #d161ff
+        #3086e9,
+        #704dc4
     );
 }
 
@@ -48,7 +48,7 @@ body{
 
 #newtask input:focus{
     outline: none;
-    border-color: #8052ec;
+    border-color: #3086e9;
 }
 #newtask button{
     position: relative;
@@ -59,7 +59,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
     font-size: 16px;
-    background-color: #8052ec;
+    background-color: #3086e9;
     border: none;
     color: #ffffff;
     cursor: pointer;
@@ -94,7 +94,7 @@ body{
 }
 
 .task button{
-    background-color: #8052ec;
+    background-color: #3086e9;
     color: #ffffff;
     height: 100%;
     width: 40px;
